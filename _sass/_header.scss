@@ -9,24 +9,23 @@
   background-attachment: fixed;
   .particles-js-canvas-el {
     width:100% !important;
+    //height:100vh !important;
+  }
+}
+
+.small-shit {
+  min-height: 15vh !important;
+  .particles-js-canvas-el {
+    height:20vh !important;
+  }
+}
+
+.big-shit {
+  .particles-js-canvas-el {
     height:100vh !important;
   }
 }
 
-#particles-js-small {
-  background: $main;
-  display: flex;
-  vertical-align: bottom;
-  width: 100%;
-  min-height: 20vh;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  .particles-js-canvas-el {
-    width:100% !important;
-    height:100vh !important;
-  }
-}
 
 .header {
   z-index: 1;
@@ -68,19 +67,19 @@
   text-align: center;
   color:#FFF;
   position: absolute;
-  top: 15%;
+  top: 7%;
   left: 50%;
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .site-title-small {
-    font-size: 25px;
+    font-size: 30px;
     display: block;
     line-height: 1;
     color: #FFF;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 75px;
+      font-size: px;
     }
   }
 
