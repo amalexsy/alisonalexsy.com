@@ -9,24 +9,23 @@
   background-attachment: fixed;
   .particles-js-canvas-el {
     width:100% !important;
+    //height:100vh !important;
+  }
+}
+
+.small-shit {
+  min-height: 15vh !important;
+  .particles-js-canvas-el {
+    height:20vh !important;
+  }
+}
+
+.big-shit {
+  .particles-js-canvas-el {
     height:100vh !important;
   }
 }
 
-#particles-js-small {
-  background: $main;
-  display: flex;
-  vertical-align: bottom;
-  width: 100%;
-  min-height: 20vh;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  .particles-js-canvas-el {
-    width:100% !important;
-    height:100vh !important;
-  }
-}
 
 .header {
   z-index: 1;
@@ -80,7 +79,7 @@
     color: #FFF;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 75px;
+      font-size: px;
     }
   }
 
