@@ -41,8 +41,8 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "size": {
-        "value": 3,
-        "random": true,
+        "value": 100,
+        "random": false,
         "anim": {
           "enable": false,
           "speed": 19.18081918081918,
