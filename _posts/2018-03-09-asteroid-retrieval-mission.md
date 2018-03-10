@@ -1,7 +1,7 @@
 ---
 title:  "Asteroid Retrieval Mission"
-date:   2018-03-09 20:59:31 -0600
-categories: jekyll update
+date:   2018-03-09
+categories: project
 ---
 My final project for my Space Mechanics class was to conduct an asteroid retrieval mission. We were told a spacecraft would depart from Earth on a trip to an asteroid to capture a boulder from the asteroid and return it to an orbit around the Moon. It was required to design the trajectory of the spacecraft from Earth departure until the final orbit around the Moon. The assumptions given consisted of the following:
 * Spacecraft has a 6 Ton dry mass
