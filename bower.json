@@ -15,6 +15,9 @@
     "tests"
   ],
   "dependencies": {
-    "animate.css": "^3.5.2"
+    "animate.css": "^3.5.2",
+    "normalize-scss": "^3.0.3",
+    "devicons": "^1.8.0",
+    "devicon": "*"
   }
 }
