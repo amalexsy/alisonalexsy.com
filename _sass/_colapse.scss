@@ -8,17 +8,15 @@ input[type='checkbox'] {
 
 .lbl-toggle {
   display: block;
+  width: 150px;
+  margin: 10px 0px;
+  padding: 5px;
+  color: $main;
+  background-color: transparent;
 
-  font-weight: bold;
-  font-family: monospace;
-  font-size: 1.2rem;
-  text-transform: uppercase;
   text-align: center;
-
-  padding: 1rem;
-
-  color: #A77B0E;
-  background: #FAE042;
+  outline: none;
+  text-decoration: none;
 
   cursor: pointer;
 
@@ -71,6 +69,14 @@ input[type='checkbox'] {
   padding: .5rem 1rem;
 }
 
-#space {
-      padding: 100px;
+.sizing {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+  max-width: 960px;
+  margin: auto;
+  @media only screen and (min-width: $cut) {
+    width: 80%;
+  }
 }
