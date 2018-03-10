@@ -7,5 +7,8 @@
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="/bower_components/animate.css/animate.min.css">
+  <link rel="stylesheet" href="{{ "/bower_components/animate.css/animate.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/bower_components/devicons/devicons.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/bower_components/font-awesome/web-fonts-with-css/css/fontawesome-all.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/bower_components/normalize.css/normailze.css" | prepend: site.baseurl }}">
 </head>
