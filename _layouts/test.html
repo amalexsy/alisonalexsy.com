@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="{{ "/assets/css/dropdown.css" | prepend: site.baseurl }}">
+
+<div id="spce">
+  {% for post in site.posts %}
+  {{ post.excerpt }}
+    <div class="wrap-collabsible">
+      <input id="collapsible {{ post.title }}" class="toggle" type="checkbox">
+      <label for="collapsible {{ post.title}}" class="lbl-toggle">{{ post.title }}</label>
+      <div class="collapsible-content">
+        <div class="content-inner">
+          <p>
+          {{ post.content }}
+          </p>
+        </div>
+      </div>
+    </div>
+   {% endfor %}
+</div>
