@@ -9,11 +9,11 @@
         {{ post.excerpt }}
           <div class="wrap-collabsible">
             <input id="collapsible {{ post.title }}" class="toggle" type="checkbox" onchange="doalert(this)">
-            <label for="collapsible {{ post.title}}" class="lbl-toggle" href="#test">Read More</label>
+            <label for="collapsible {{ post.title }}" class="lbl-toggle" href="#test">Read More</label>
             <div class="collapsible-content">
               <div class="content-inner">
                 <p>
-                {{ post.content }}
+                {{ post.content | remove: post.excerpt }}
                 </p>
               </div>
             </div>
