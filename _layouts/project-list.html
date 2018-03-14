@@ -5,7 +5,7 @@
       {% include header-small.html %}
       <div class="sizing">
         {% for post in site.posts %}
-        <h1>{{ post.title }}</h1>
+        <h1><span id="{{ post.post_id }}"> {{ post.title }} </span> </h1>
         {{ post.excerpt }}
           <div class="wrap-collabsible">
             <input id="collapsible {{ post.title }}" class="toggle" type="checkbox" onchange="doalert(this)">
