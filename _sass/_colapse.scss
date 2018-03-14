@@ -80,3 +80,15 @@ input[type='checkbox'] {
     width: 80%;
   }
 }
+
+.sizing-resume {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+  max-width: 960px;
+  margin: auto;
+  @media only screen and (min-width: $cut) {
+    width: 80%;
+  }
+}
