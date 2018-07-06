@@ -50,6 +50,8 @@ Once in the Moon's sphere of influence we can begin to conduct our flyby maneuve
 
 ### Hohmann Transfers
 After the velocity boost of the lunary flyby, we can begin to perform a simple Hohmann transfer to the asteroid. To calculate the total delta V necessary for this maneuver, we first need to
+<img src="{{site.url}}/assets/img/hohmann transfer.jpg" alt="Hohmann Transfer">
+
 ### Earth Lunar Altitude Insertion and Phasing
 #### Lunar Insetion
 
