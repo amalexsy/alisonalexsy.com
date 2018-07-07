@@ -25,7 +25,7 @@ input[type='checkbox'] {
 }
 
 .lbl-toggle:hover {
-  color: #7C5A0B;
+  color: #010049;
 }
 
 .lbl-toggle::before {
@@ -62,8 +62,8 @@ input[type='checkbox'] {
 }
 
 .collapsible-content .content-inner {
-  background: rgba(250, 224, 66, .2);
-  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  background: rgba(221, 220, 216, 0.43);
+  border-bottom: 1px solid rgba(128, 128, 128, 0.45);
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;
@@ -87,6 +87,7 @@ input[type='checkbox'] {
   justify-content: space-between;
   width: 90%;
   max-width: 960px;
+  max-height: 100%;
   margin: auto;
   @media only screen and (min-width: $cut) {
     width: 80%;
