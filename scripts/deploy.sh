@@ -11,4 +11,4 @@ fi
 
 echo 'Copying Built Site to Server'
 cd _site
-ruby ../scripts/scp.rb $USERNAME $PASSWORD alisonalexsy.com . /var/www/alisonalexsy.com
+ruby ../scripts/scp.rb $USERNAME $PASSWORD alisonalexsy.com . /home/amalexsy/web/alisonalexsy.com/public_html
