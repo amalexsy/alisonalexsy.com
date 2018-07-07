@@ -31,8 +31,8 @@ Another mission proposal we found was written by David B. Reid at the University
 To start to get an idea of what kind of asteroid we should look to traveling to, my team utilized the [NASA Ames Research Center Trajectory Browser](https://trajbrowser.arc.nasa.gov "NASA Ames Research Center Trajectory Browser"). As seen in the picture below, the tool lets the user search the JPL small-body database using credentials such as when the launch should occur, for how long and how much delta V used to carry out the mission.
 
 <figure class="imagecenter">
-<img src="{{site.url}}/assets/img/asteroid selection.png" alt="asteroid selection">
-<img class="padded" src="{{site.url}}/assets/img/orbital diagram.png" alt="orbital diagram">
+<img src="{{site.url}}/assets/img/asteroid_selection.png" alt="asteroid selection">
+<img class="padded" src="{{site.url}}/assets/img/orbital_diagram.png" alt="orbital diagram">
 
 <figcaption><i>NASA Ames Research Center Trajectory Constraints</i> </figcaption>
 </figure>
@@ -50,7 +50,7 @@ Once in the Moon's sphere of influence we can begin to conduct our flyby maneuve
 
 ### Hohmann Transfers
 After the velocity boost of the lunary flyby, we can begin to perform a simple Hohmann transfer to the asteroid. To calculate the total delta V necessary for this maneuver, we first need to
-<img src="{{site.url}}/assets/img/hohmann transfer.jpg" alt="Hohmann Transfer">
+<img src="{{site.url}}/assets/img/hohmann_transfer.jpg" alt="Hohmann Transfer">
 
 ### Earth Lunar Altitude Insertion and Phasing
 #### Lunar Insetion

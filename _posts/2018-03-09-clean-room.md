@@ -18,27 +18,7 @@ I was involved in both the structures and ground support equipment teams. During
 #### What is a Clean Room? Why is it an important?
 The Aerospace Enterprise has a Class ISO 8 clean room, meaning that according to the International Organization for Standardization (ISO) 14644-1, the air can contain <i>at most</i> 3,520,000 particles per cubic meter.
 
-
-
-<table align="center", table border="1", >
-<caption> hi </caption> 
-  <tr>
-    <th class="tg-amwm" colspan="3">maximum particles/m<sup>3</sup></th>
-  </tr>
-  <tr>
-    <td class="tg-amwm">≥ 0.5 µm</td>
-    <td class="tg-amwm">≥ 1 µm</td>
-    <td class="tg-amwm">≥ 5 µm</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">3,520,000</td>
-    <td class="tg-baqh">832,000</td>
-    <td class="tg-baqh">29,300</td>
-  </tr>
-</table>
-</table>
-</table>
-
+{% include table.html %}
 
 The lower the class, the stricter the particle count becomes. Without any sort of sensor system, our organization had no way of actually proving that we were meeting  
 
