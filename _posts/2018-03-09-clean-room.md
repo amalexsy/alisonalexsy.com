@@ -1,5 +1,5 @@
 ---
-title:  "Aerospace Enterprise Cleanroom Sensor System"
+title:  "Cleanroom Sensor System"
 date:   2018-03-09
 categories: project
 post_id: 1
