@@ -53,8 +53,10 @@ After the velocity boost of the lunary flyby, we can begin to perform a simple H
 <img src="{{site.url}}/assets/img/hohmann_transfer.jpg" alt="Hohmann Transfer">
 
 ### Earth Lunar Altitude Insertion and Phasing
+
 #### Lunar Insetion
 
 #### Closing Notes
-Although this project was not easy and we weren't able to find everything out as a team, it challenged our research skills and made us perser
+Although this project was not easy and we weren't able to find everything out as a team, it challenged our research skills and made us persevere.
+
 #### References
