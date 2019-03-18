@@ -34,6 +34,11 @@ The lower the class, the stricter the particle count becomes. Without any sort o
 
 
 #### IoT Integration
+<figure class="imagecenter">
+<img src="{{site.url}}/assets/img/iotready_logo_hardware.png" alt="asteroid selection">
+<img class="padded" src="{{site.url}}/assets/img/orbital_diagram.png" alt="orbital diagram">
 
+<figcaption><i>myDevices Cayenne IoT</i> </figcaption>
+</figure>
 
 #### References
