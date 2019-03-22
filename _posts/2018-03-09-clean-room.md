@@ -21,21 +21,22 @@ The Aerospace Enterprise has a Class ISO 8 clean room, meaning that according to
 
 {% include table.html %}
 
-The lower the class, the stricter the particle count becomes. Without any sort of sensor system, our organization had no way of actually proving that we were meeting  
+The lower the class, the stricter the particle count becomes. Without any sort of sensor system, our organization had no way of actually proving that we were meeting these standards, which is where my senior design came in.
 
 
 
 
-
+#### IoT Integration
+Because I had basic circuit and software experience I sought after a platform where I could combine my sensors in very user friendly way. My research lead me to find a website called MyDevices and their product called Cayenne. Cayenne allows users to build complete and ready-to-use IoT solutions with little to no coding during the process. It allows the user to use their own hardware and submit any device into the their library using MQTT API. The main two ways to connect the devices together was either with an Arduino or a Raspberry Pi. I decided to take the Raspberry Pi route because it seemed to not have as high of a learning curve. 
+<p align="center">
+<img src="{{site.url}}/assets/img/iotready_logo_hardware.png" alt="myDevices Cayenne IoT" width="40%">
+</p>
 
 
 
 #### Sensor Selection
 
 
-#### IoT Integration
-<p align="center">
-<img src="{{site.url}}/assets/img/iotready_logo_hardware.png" alt="myDevices Cayenne IoT" width="40%">
-</p>
+
 
 #### References
