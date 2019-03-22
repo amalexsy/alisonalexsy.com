@@ -44,3 +44,4 @@ Because I had basic circuit and software experience I sought after a platform wh
 
 
 #### References
+https://mydevices.com/
