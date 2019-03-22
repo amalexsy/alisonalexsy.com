@@ -34,7 +34,8 @@ The lower the class, the stricter the particle count becomes. Without any sort o
 
 
 #### IoT Integration
+<p align="center">
 <img src="{{site.url}}/assets/img/iotready_logo_hardware.png" alt="myDevices Cayenne IoT" width="40%">
-
+</p>
 
 #### References
