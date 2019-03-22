@@ -49,9 +49,11 @@ Starting at position (1), the spacecraft would be required to make an impulsive 
 Once in the Moon's sphere of influence we can begin to conduct our flyby maneuvers. This is the part of the mission we struggled the most on due to the complicated vector math involved.
 
 ### Hohmann Transfers
-After the velocity boost of the lunary flyby, we can begin to perform a simple Hohmann transfer to the asteroid. To calculate the total delta V necessary for this maneuver, we first need to
+After the velocity boost of the lunary flyby, we can begin to perform a simple Hohmann transfer to the asteroid.
 
-<p align='center'>
+%To calculate the total delta V necessary for this maneuver, we first need to
+
+<p align="center">
 <img src="{{site.url}}/assets/img/hohmann_transfer.jpg" alt="Hohmann Transfer">
 </p>
 
