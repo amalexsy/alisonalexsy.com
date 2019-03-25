@@ -40,7 +40,7 @@ Because I had basic circuit and software experience I sought after a platform wh
 #### Sensor Selection
   1. Pressure
 <img align="right" src="{{site.url}}/assets/img/pressure_sensor.jpg">
-
+The first sensor I needed was a differential pressure sensor to fulfill the requirement of keeping 0.03 to 0.05 inches water gauge between spaces. The idea behind differential pressure in a clean room is to ensure that filtered air is following from the cleanest to less-clean spaces. 
 
   2. Airflow velocity
   3. Humidity and Temperature
