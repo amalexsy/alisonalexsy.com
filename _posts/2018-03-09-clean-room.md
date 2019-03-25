@@ -29,7 +29,7 @@ The lower the class, the stricter the particle count becomes. Without any sort o
 #### IoT Integration
 <img align="right" src="{{site.url}}/assets/img/iotready_logo_hardware.png" width="40%">
 
-Because I had basic circuit and software experience I sought after a platform where I could combine my sensors in very user friendly way. My research lead me to find a website called MyDevices and their product called Cayenne.[1] Cayenne allows users to build complete and ready-to-use IoT solutions with little to no coding during the process. It allows the user to use their own hardware and submit any device into the their library using MQTT API. The main two ways to connect the devices together was either with an Arduino or a Raspberry Pi. I decided to take the Raspberry Pi route because it seemed to not have as high of a learning curve.
+Because I had basic circuit and software experience I sought after a platform where I could combine my sensors in very user friendly way. My research lead me to find a website called MyDevices and their product called Cayenne.[1](https://mydevices.com/) Cayenne allows users to build complete and ready-to-use IoT solutions with little to no coding during the process. It allows the user to use their own hardware and submit any device into the their library using MQTT API. The main two ways to connect the devices together was either with an Arduino or a Raspberry Pi. I decided to take the Raspberry Pi route because it seemed to not have as high of a learning curve.
 
 
 
@@ -38,12 +38,12 @@ Because I had basic circuit and software experience I sought after a platform wh
 
 
 #### Sensor Selection
-  ##### Pressure
+##### Pressure
 <img align="right" src="{{site.url}}/assets/img/pressure_sensor.jpg">
 
 
-  ##### Airflow velocity
-  ##### Humidity and Temperature
+##### Airflow velocity
+##### Humidity and Temperature
 
 
 
