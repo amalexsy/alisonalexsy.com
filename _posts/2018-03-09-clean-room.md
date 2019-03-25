@@ -38,12 +38,12 @@ Because I had basic circuit and software experience I sought after a platform wh
 
 
 #### Sensor Selection
-##### Pressure
+  1. Pressure
 <img align="right" src="{{site.url}}/assets/img/pressure_sensor.jpg">
 
 
-##### Airflow velocity
-##### Humidity and Temperature
+  2. Airflow velocity
+  3. Humidity and Temperature
 
 
 
