@@ -30,3 +30,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 #to deploy to the web host
 gem "net-scp"
+
+gem "github-pages", "~>VERSION", group: :jekyll_plugins
